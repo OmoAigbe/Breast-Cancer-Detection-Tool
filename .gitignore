@@ -44,7 +44,7 @@ terraform.rc
 # planout.kaggle/
 kaggle.json
 .env
-data/full/
+data/
 .venv/
 env/
 venv/
